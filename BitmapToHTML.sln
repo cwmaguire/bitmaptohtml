@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapToHTML", "BitmapToHTML.csproj", "{036B097D-DB6A-4883-949B-88AB67EB588F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{036B097D-DB6A-4883-949B-88AB67EB588F}.Debug.ActiveCfg = Debug|.NET
+		{036B097D-DB6A-4883-949B-88AB67EB588F}.Debug.Build.0 = Debug|.NET
+		{036B097D-DB6A-4883-949B-88AB67EB588F}.Release.ActiveCfg = Release|.NET
+		{036B097D-DB6A-4883-949B-88AB67EB588F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
